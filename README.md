@@ -36,6 +36,13 @@ To run your codeless application you just do the following
 
 It's that easy!
 
+## Now with i18n support
+
+Nothing to change in your code for Iñtërnâtiônàlizætiøn support
+```
+
+```
+
 ## Contributing
 
 Want to contribute to Codeless? **great we'd love to have you**, see the contribution guidelines below
